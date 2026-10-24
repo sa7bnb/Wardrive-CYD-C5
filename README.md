@@ -8,8 +8,6 @@ Everything runs on the board. There is no web server and no Wi-Fi access point. 
 
 ![Main screen](images/main_screen.png)
 
-*Simulated render of the display layout, not a photo.*
-
 ## Features
 
 - Scans **2.4 GHz**, **5 GHz**, or **both** (selectable on the screen and remembered after restart)
