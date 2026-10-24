@@ -22,6 +22,11 @@ Everything runs on the board. There is no web server and no Wi-Fi access point. 
 
 ## Hardware
 
+Where to buy (AliExpress):
+
+- https://www.aliexpress.com/item/1005012284431494.html
+- https://www.aliexpress.com/item/1005002106176312.html
+
 | Part | Notes |
 |---|---|
 | NM-CYD-C5 board | ESP32-C5, 2.8" ST7789 display, XPT2046 touch, microSD slot |
@@ -143,6 +148,10 @@ Wardriving can be legal or illegal depending on where you are and what you do wi
 
 Pin mapping and display configuration are based on the NM-CYD-C5 `sdkconfig`. WiGLE CSV format per [wigle.net](https://wigle.net).
 
+## Author
+
+Developed by **Anders Isaksson (SA7BNB)**.
+
 ## License
 
-Not yet chosen.
+Released under the MIT License. You are free to use and copy the software. See [LICENSE](LICENSE).
